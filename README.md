@@ -3,3 +3,4 @@
 - https://github.com/dgma/tyche-contracts-london-hack - Tyche oracle smart contracts
 - https://github.com/dgma/tyche-web-london-hack - App front-end
 - https://docs.google.com/presentation/d/1b7RvDwhHLX_4GjAef2Ar3q7fE_zjwigY539ldzIv6js deck
+- whitepaper_original.jpg - original whitepaper
